@@ -1,75 +1,41 @@
-# ImpactAI-Lab
-Applied AI systems focused on real-world, human-centered problems
+# ImpactAI Lab
 
-OVERVIEW
+A living lab for exploring applied AI systems through experiments, reflections, and iterative design.  
+This repository is a **demonstration of my thinking, building, and learning velocity**.
 
-ImpactAI-Lab is an applied AI project focused on building, testing, and refining human-centered AI systems that solve practical, real-world problems.
-Rather than theoretical exploration, this lab prioritizes deployment, iteration, and measurable usefulness.
+---
 
-PROBLEM STATEMENT
+##  Structure
 
-Many AI tools fail not because the models are weak, but because they are disconnected from real user needs, workflows, and constraints.
-This project explores how AI can be integrated into learning, training, and decision-making systems in a way that is usable, trustworthy, and impactful.
+- **assistant/** – AI assistant experiments, including prompts, workflows, and examples.
+- **experiments/** – Documented learning, failed approaches, and hypotheses.
+- **docs/** – System and architecture notes.
+- **reflections/** – Weekly reflections capturing insights and decisions.
 
-WHAT I'M BUILDING
+---
 
-The first system in this lab is an AI Training & Knowledge Assistant designed to:
+##  Philosophy
 
-Help users understand complex topics faster
+I explore AI not as a black box, but as a **system to reason with, shape, and understand**.  
+I prioritize:
 
-Provide structured explanations, examples, and follow-up prompts
+1. **Learning by doing:** Rapid prototyping, testing, and iteration.  
+2. **Documenting the why:** Every design, prompt, and workflow has rationale.  
+3. **Failing smartly:** Dead ends are recorded as signals, not mistakes.  
+4. **Reflecting often:** Weekly reflections improve both product and process.
 
-Adapt responses based on user context and progress
+---
 
-Reduce cognitive overload during learning
+##  Example Early Insights
 
+- Framing AI as a **“coach”** rather than an “answer engine” increases engagement and reasoning depth.  
+- Role constraints in prompts change output patterns subtly but meaningfully.  
+- Iterative experimentation surfaces assumptions faster than isolated coding or reading papers.
 
-DESIGN PRINCIPLES
+---
 
-Human-centered over model-centered
+##  Next Steps
 
-Practical usefulness over novelty
-
-Clear constraints and scoped problems
-
-Continuous iteration based on reflection and feedback
-
-
-CURRENT FEATURES
-
-Context-aware prompting framework
-
-Modular knowledge ingestion
-
-Explain → Apply → Reflect response loop
-
-Logging of failures and edge cases
-
-
-WHAT I'M LEARNING
-
-How users actually interact with AI tools over time
-
-Where AI adds clarity vs. confusion
-
-The importance of framing, tone, and trust in AI systems
-
-Trade-offs between automation and human agency
-
-
-ROADMAP
-
-Add lightweight UI (web or chat interface)
-
-Introduce user feedback loops
-
-Experiment with agent workflows
-
-Publish case studies from real usage
-
-
-WHY THIS MATTERS
-
-Applied AI succeeds when it fits into human systems.
-
-This lab is an exploration of how to make that fit real, practical, and repeatable.
+1. Expand prompt experiments with varied cognitive strategies.  
+2. Build workflow-level experiments to test assistant reasoning.  
+3. Continue weekly reflections, documenting trade-offs, failures, and insights.
