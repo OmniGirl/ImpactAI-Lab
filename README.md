@@ -1,6 +1,13 @@
 # ImpactAI Lab
 
-A living lab for exploring applied AI systems through experiments, reflections, and iterative design.  
+🚀 **Key Artifacts**
+
+- [Learning Coach Prompt](assistant/prompts/learning_coach.md) – Early prompt experiments
+- [Learning Coach Workflow](assistant/workflows/learning_coach_workflow.md) – Step-by-step workflow design
+- [Week 1 Reflection](reflections/week-1.md) – Insights, failures, next steps
+
+
+This is a living lab for exploring applied AI systems through experiments, reflections, and iterative design.  
 This repository is a **demonstration of my thinking, building, and learning velocity**.
 
 ---
